@@ -1,5 +1,5 @@
 # Introduction-To-ML
- This repository contains materials for assignments on Introduction to Machine Learning course on MIMUW in 2024. 
+ This repository contains materials for assignments on Introduction to Machine Learning course at MIMUW in 2024. 
 
 ## Project 1
 This project combines data exploration, correlation analysis, visualization, and hypothesis testing, leading up to regression modeling of consumer behavior. 
